@@ -8,11 +8,11 @@ class App extends Component {
 
         <div>
 
-          <h1>This is the Day - 2 In Bennette University</h1>
+          <h1 className = "hello"> {20+25}</h1>
           
           <h2>Reactjs || and JSX are - Main Agenda For Todays Session </h2>
 
-          <p>Happy Learning! :D </p>
+          <p data-demoAttribute="demo">This is the Sample for JSX - Attribute</p>
 
         </div>
 
